@@ -1,12 +1,12 @@
 # PakSignal - Python dependencies
 # Install with: pip install -r requirements.txt
 
-ultralytics>=8.0.0        # YOLOv8 detection + training
-opencv-python>=4.8.0      # video frame processing
-streamlit>=1.28.0         # dashboard
-pandas>=2.0.0             # data tables and CSV export
-plotly>=5.17.0            # interactive charts
-pillow>=10.0.0            # image handling
-pyyaml>=6.0               # read data.yaml
-numpy>=1.24.0             # numerical ops
-roboflow>=1.1.0           # optional: dataset download in Colab
+ultralytics>=8.0.0
+opencv-python-headless>=4.8.0
+streamlit>=1.28.0
+pandas>=2.0.0
+plotly>=5.17.0
+pillow>=10.0.0
+pyyaml>=6.0
+numpy>=1.24.0
+roboflow>=1.1.0
