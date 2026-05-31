@@ -16,6 +16,11 @@
 
 ---
 
+## Live Demo
+
+Try the deployed Streamlit app here: [PakSignal Traffic Dashboard](https://paksignal-traffic-dl.streamlit.app/)
+
+---
 
 ## Dashboard Preview
 
