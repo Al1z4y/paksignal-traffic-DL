@@ -16,12 +16,10 @@
 
 ---
 
-<!-- ─── DASHBOARD SCREENSHOT ──────────────────────────────────────────────────
-     Take a screenshot of the Streamlit app (streamlit run app.py) and save it as:
-         docs/images/dashboard_main.png
-     Then delete this comment.
-─────────────────────────────────────────────────────────────────────────── -->
-<!-- ![PakSignal Dashboard](docs/images/dashboard_main.png) -->
+
+## Dashboard Preview
+
+![PakSignal Dashboard](docs/images/dashboard_main.png)
 
 ---
 
@@ -320,12 +318,19 @@ Tick **Demo mode** in the sidebar — the dashboard simulates realistic vehicle 
 
 ![Green Time Comparison](docs/images/green_time_comparison.png)
 
-<!-- ─── STREAMLIT SCREENSHOTS ────────────────────────────────────────────────
-     Save your actual app screenshots here and uncomment the lines below:
+## Demo Screenshots
 
-     docs/images/dashboard_main.png      → full dashboard view
-     docs/images/detection_preview.png   → YOLOv8 bounding box output
-     docs/images/results_table.png       → lane results + green time table
+### Dashboard Overview
+
+![Dashboard](docs/images/dashboard_main.png)
+
+### YOLOv8 Detection Preview
+
+![Detection Preview](docs/images/detection_preview.png)
+
+### Signal Decision and Impact Estimate
+
+![Signal Decision](docs/images/signal_decision_impact.png)
 
 ### Live Dashboard
 
@@ -334,7 +339,7 @@ Tick **Demo mode** in the sidebar — the dashboard simulates realistic vehicle 
 ### Detection Preview
 
 ![Detection](docs/images/detection_preview.png)
-─────────────────────────────────────────────────────────────────────────── -->
+
 
 ---
 
@@ -371,8 +376,8 @@ Tick **Demo mode** in the sidebar — the dashboard simulates realistic vehicle 
 
 Dataset: **CC BY 4.0** — [density-traffic-controller-v1](https://universe.roboflow.com/fypszabist-i9gqf/density-traffic-controller-v1) by fypszabist on Roboflow Universe.
 
-Code: MIT — free to use and modify with attribution.
+
 
 ---
 
-*Semester project — Deep Learning, 2024–25*
+*Semester project — Deep Learning, 2026 spring*
